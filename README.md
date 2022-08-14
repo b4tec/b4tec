@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **B.TECH CSE**
 
-- 👨‍💻 All of my projects are available at [https://bugswriter.nowfloats.com](https://bugswriter.nowfloats.com)
+- 👨‍💻 All of my projects are available at [GO!!](https://rb.gy/ocrpeq)
 
 - 💬 Ask me about **linux/os/networking/AI/ML/BASH**
 
 - 📫 How to reach me **shivagoswami163@gmail.com**
 
-- 📄 Know about my experiences [https://bugswriter.nowfloats.com/](https://bugswriter.nowfloats.com/)
+- 📄 Know about my experiences [#BUGSWRITER](https://bugswriter.nowfloats.com/)
 
 - ⚡ Fun fact **MY CRIME IS OF CURIOSITY :)**
 
