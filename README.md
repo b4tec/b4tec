@@ -1,7 +1,7 @@
 [![MasterHead](https://giffiles.alphacoders.com/310/3102.gif)]
 <h1 align="center">Hi 👋, I'm MR.DAMAIN</h1>
-<h3 align="center">A passionate RealTime Pentester/developer from India.</h3>
-(img align="right" alt="Coding" width="400" src ="https://giffiles.alphacoders.com/120/120288.gif")
+<h2 align="center">A passionate RealTime Pentester/developer from India.</h3>
+<img align="right" alt="Coding" width="400" src ="https://giffiles.alphacoders.com/120/120288.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sniker2&label=Profile%20views&color=0e75b6&style=flat" alt="sniker2" /> </p>
 <p align="left"> <a href="https://twitter.com/shivadaimain" target="blank"><img src="https://img.shields.io/twitter/follow/shivadaimain?logo=twitter&style=for-the-badge" alt="shivadaimain" /></a> </p>
 
