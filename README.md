@@ -1,5 +1,5 @@
 ![MasterHead](https://scontent.fjrh1-1.fna.fbcdn.net/v/t39.30808-6/297218510_2417018055108097_3191908357207317562_n.png?_nc_cat=103&ccb=1-7&_nc_sid=e3f864&_nc_ohc=m8Nhi0E_JYIAX-JWCX0&tn=8A5CfcBzzdX1Js3T&_nc_ht=scontent.fjrh1-1.fna&oh=00_AT9PSC0__NLpAizUF-xXZveO6frkQN14FXDz2H3MJyMiaA&oe=62FD43F3)
-<h1 align="center">Hi 👋, I'm Mr.Damain</h1>
+<h1 align="center">Hellow world !!👋, I'm Mr.Damain</h1>
 <h2 align="center">A Passionate RealTime Pentester/Developer from India.</h3>
 <img align="right" alt="Coding" width="400" src ="https://giffiles.alphacoders.com/120/120288.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sniker2&label=Profile%20views&color=0e75b6&style=flat" alt="sniker2" /> </p>
@@ -33,7 +33,7 @@
 <p><a href="https://www.buymeacoffee.com/bugswriter"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="bugswriter" /></a><a href="https://ko-fi.com/bo!!"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="bo!!" /></a></p><br><br>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sniker2&show_icons=true&locale=en&layout=compact" alt="sniker2" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=sniker2&show_icons=true&locale=en&layout=compact" alt="sniker2" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sniker2&show_icons=true&locale=en" alt="sniker2" /></p>
 
