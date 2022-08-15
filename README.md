@@ -33,7 +33,7 @@
 <p><a href="https://www.buymeacoffee.com/bugswriter"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="bugswriter" /></a><a href="https://ko-fi.com/bo!!"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="bo!!" /></a></p><br><br>
 
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=sniker2&show_icons=true&locale=en&layout=compact" alt="sniker2" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sniker2&show_icons=true&locale=en&layout=compact" alt="sniker2" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sniker2&show_icons=true&locale=en" alt="sniker2" /></p>
 
