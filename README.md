@@ -37,4 +37,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SHIVADAMAIN&show_icons=true&locale=en" alt="SHIVADAMAIN" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SHIVADAMAIN&" alt="SHIVADAMAIN" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SHIVADAMAIN&" alt="SHIVA" /></p>
