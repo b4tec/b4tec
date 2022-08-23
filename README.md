@@ -1,6 +1,7 @@
 ![MasterHead](https://assets.rocketstock.com/uploads/2020/10/Cyberpunk-After-Effects-Plugins-Displacer-Pro.gif)
 <h1 align="center">Hellow world !!👋, I'm Mr.Damain</h1>
 <h2 align="center">A Passionate RealTime Pentester/Developer from India.</h2>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="bugswriter" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/bugswriter?trk=profile-badge">Shiva Gs</a></div>
 <img align="right" alt="Coding" width="400" src ="https://c.tenor.com/5bTxm8jHsZ4AAAAC/red-cyberpunk.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sniker2&label=Profile%20views&color=0e75b6&style=flat" alt="sniker2" /> </p>
