@@ -39,7 +39,7 @@
 <div align="center" width="50"> 
 </div>
 
-&nbsp;[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Monoton&size=40&pause=1000&color=FF0000&width=1034&height=110&lines=Wellcome+%3Cfriends%3E+%2Fn+%3Ccoderz%2F%3E+)
+&nbsp;[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Monoton&size=47&pause=1000&color=FF0000&width=1034&height=110&lines=Wellcome+%3Cfriends%3E+%2Fn+%3Ccoderz%2F%3E+)
 ](https://elgoog.im/t-rex/3d/)
 
 <div align="center">
