@@ -37,4 +37,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SHIVADAMAIN&show_icons=true&locale=en" alt="SHIVADAMAIN" /></p>
 &nbsp;
-[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=ff0000&size=36&multiline=true&width=970&height=300&lines=Hello+there%2C+fellow+%3 Friends///\%2F%3E+and+%3Ccoderz%2F%3E!)](https://git.io/typing-svg)
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=ff0000&size=36&multiline=true&width=970&height=300&lines=Hello+there%2C+fellow+%3Friends%2F%3E+and+%3Ccoderz%2F%3E!)](https://git.io/typing-svg)
