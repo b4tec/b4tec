@@ -39,8 +39,8 @@
 <div align="center" width="50"> 
 </div>
 
-&nbsp;![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Monoton&size=50&pause=1000&color=FF0000&width=1034&height=110&lines=Wellcome+%3Cfriends%3E+%2Fn+%3Ccoderz%2F%3E+)
-
+&nbsp;[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Monoton&size=40&pause=1000&color=FF0000&width=1034&height=110&lines=Wellcome+%3Cfriends%3E+%2Fn+%3Ccoderz%2F%3E+)
+](https://elgoog.im/t-rex/3d/)
 
 <div align="center">
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="bugswriter" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/bugswriter?trk=profile-badge">☜(^_^メ)☞</a></div>
