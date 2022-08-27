@@ -40,3 +40,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SHIVADAMAIN&" alt="SHIVA" /></p>
 ![Logo](https://scontent.fjrh1-1.fna.fbcdn.net/v/t39.30808-6/297218510_2417018055108097_3191908357207317562_n.png?_nc_cat=103&ccb=1-7&_nc_sid=e3f864&_nc_ohc=P6iXstzNB2wAX-BcnRX&tn=S0sXyA05DR5B-Npr&_nc_ht=scontent.fjrh1-1.fna&oh=00_AT-rfhm16TIhKrOavoCQaWIDSJq1G2Gat8gGYoHxOVr9Dw&oe=63092173)
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="bugswriter" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/bugswriter?trk=profile-badge">Shiva Gs</a></div>
+&nbsp;[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=ff0000&size=36&multiline=true&width=970&height=300&lines=Hello+there%2C+fellow+%3Chackers%2F%3E+and+%3Ccoderz%2F%3E!)](https://git.io/typing-svg)
