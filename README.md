@@ -40,6 +40,5 @@
 </div>
 
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?color=ff0000&size=36&multiline=true&width=970&height=300&lines=Hello+there%2C+fellow+%3Chackers%2F%3E+and+%3Ccoderz%2F%3E!)](https://git.io/typing-svg)
-
-
+![Logo](https://imageup.me/images/49cab853-41b7-40e0-9baa-249d29fdf89c.jpg)
 <div align="center">
