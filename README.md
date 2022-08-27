@@ -39,7 +39,7 @@
 <div align="center" width="50"> 
 </div>
 
-&nbsp;[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=ff0000&size=36&multiline=true&width=970&height=300&lines=Welcome+Thy+system%2C+fellow+%3Cfriends%2F%3E+and+%3Ccoderz%2F%3E!)](https://git.io/typing-svg)
+&nbsp;[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Monoton&size=30&pause=1000&color=FF0000&background=000000FD&width=627&height=69&lines=Wellcome+%3Cfriends%3E+%2Fn+%3Ccoderz%2F%3E+)](https://git.io/typing-svg)
 
 
 <div align="center">
