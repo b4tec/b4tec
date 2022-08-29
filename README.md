@@ -1,7 +1,7 @@
 ![MasterHead](https://assets.rocketstock.com/uploads/2020/10/Cyberpunk-After-Effects-Plugins-Displacer-Pro.gif)
 <h1 align="center">Hellow world !!👋, I'm Mr.Damain</h1>
 <h2 align="center">A Passionate RealTime Pentester/Developer from India.</h2>
-<img align="right" alt="Coding" width="350" src ="https://c.tenor.com/S50RruGAoksAAAAi/anonymous-anonymous-bites-back.gif">
+<img align="right" alt="Coding" width="400" src ="https://c.tenor.com/S50RruGAoksAAAAi/anonymous-anonymous-bites-back.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sniker2&label=Profile%20views&color=0e75b6&style=flat" alt="sniker2" /> </p>
 <p align="left"> <a href="https://twitter.com/ShivaDamain" target="blank"><img src="https://img.shields.io/twitter/follow/ShivaDamian?logo=twitter&style=for-the-badge" alt="ShivaDamain" /></a> </p>
 
