@@ -5,9 +5,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sniker2&label=Profile%20views&color=0e75b6&style=flat" alt="sniker2" /> </p>
 <p align="left"> <a href="https://twitter.com/ShivaDamain" target="blank"><img src="https://img.shields.io/twitter/follow/ShivaDamian?logo=twitter&style=for-the-badge" alt="ShivaDamain" /></a> </p>
 
-- 🌱 I’m currently learning **B.TECH CSE**
+- 🌱 I’m currently learning **CSE**
 
-- 👨‍💻 All of my projects are available at [GO!!](https://rb.gy/ocrpeq)
+- 👨‍💻 All of my projects are available  [GO!!](https://rb.gy/ocrpeq)
 
 - 💬 Ask me about **linux/os/networking/AI/ML/BASH**
 
