@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [#BUGSWRITER](https://bugswriter.nowfloats.com/)
 
-- ⚡ Fun fact **MY CRIME IS OF CURIOSITY :)**
+- ⚡ Fun fact **Religion is a Political drug :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
