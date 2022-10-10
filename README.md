@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [#BUGSWRITER](https://bugswriter.nowfloats.com/)
 
-- ⚡ Fun fact **Religion is a Political drug :)**
+- ⚡ Fact **Religion is a Political drug :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
