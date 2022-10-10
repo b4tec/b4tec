@@ -43,7 +43,7 @@
 &nbsp;[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Monoton&size=49&pause=1000&color=FF0000&background=000000&multiline=true&width=1034&height=110&lines=Wellcome+%3Cfriends%3E+%2Fn+%3Ccoderz%2F%3E+)
 ](https://elgoog.im/t-rex/3d/)
 
-![Logo](https://imageup.me/images/49cab853-41b7-40e0-9baa-249d29fdf89c.jpg)
+![Logo](https://scontent.fjrh1-1.fna.fbcdn.net/v/t39.30808-6/297218510_2417018055108097_3191908357207317562_n.png?_nc_cat=103&ccb=1-7&_nc_sid=e3f864&_nc_ohc=3_mJ_LPkYy8AX9E7P_m&_nc_ht=scontent.fjrh1-1.fna&oh=00_AT-u3IaPs1Mn8Nt41fvm9u67YGKIwkTFiZdaPYMgYqZCyQ&oe=63486973)
 <div align="center">
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="bugswriter" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/bugswriter?trk=profile-badge">☜(^_^メ)☞</a></div>
 <link rel="shortcut icon" href="{https://imageup.me/images/72f878c0-786b-4c90-b7ce-c807ff261f3b.png}" />
