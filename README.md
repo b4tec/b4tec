@@ -45,5 +45,5 @@
 
 ![Logo](logo_1600x700.jpg)
 <div align="center">
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="bugswriter" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/bugswriter?trk=profile-badge">☜(^_^メ)☞</a></div>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="bugswriter" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/bugwriter?trk=profile-badge">☜(^_^メ)☞</a></div>
 <link rel="shortcut icon" href="{https://imageup.me/images/72f878c0-786b-4c90-b7ce-c807ff261f3b.png}" />
