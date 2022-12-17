@@ -1,8 +1,6 @@
 ![MasterHead](https://assets.rocketstock.com/uploads/2020/10/Cyberpunk-After-Effects-Plugins-Displacer-Pro.gif)
 <head>
-  <link rel="icon" type="image/png" href="favicon.png">
-
-
+  <link rel="shortcut icon" type="image/x-icon" href="favicon.png">
 <h1 align="center">Hello<img align="center" src="https://warehouse-camo.ingress.cmh1.psfhosted.org/7f18286e59428d5fdb80fadedbd201aa8663bd1f/68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f4d617274696e4865696e7a2f4d617274696e4865696e7a2f6d61737465722f776176652e676966" height="50" width="60" />World, I'm Mr.Damain</h1>
 <h2 align="center">A Passionate RealTime Pentester/Developer from India.</h2>
   </head>
