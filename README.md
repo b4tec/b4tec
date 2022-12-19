@@ -6,11 +6,11 @@
   </head>
 <img align="right" alt="Coding" width="400" src ="https://c.tenor.com/S50RruGAoksAAAAi/anonymous-anonymous-bites-back.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sniker2&label=Profile%20views&color=0e75b6&style=flat" alt="sniker2" /> </p>
-<p align="left"> <a href="https://twitter.com/ShivaDamain" target="blank"><img src="https://img.shields.io/twitter/follow/ShivaDamian?logo=twitter&style=for-the-badge" alt="ShivaDamain" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ShivaDamain" target="200"><img src="https://img.shields.io/twitter/follow/ShivaDamian?logo=twitter&style=for-the-badge" alt="ShivaDamain" /></a> </p>
 
 - 🌱 I’m currently learning **CSE**
 
-- 👨‍💻 All of my projects are available  [GO!!](https://rb.gy/ocrpeq)
+- 👨‍💻 All of my projects are available ..<a href="https://www.youtube.com/@bugwriter" target="blank"><img align="center" src="https://clipground.com/images/imagens-do-youtube-png-6.png" alt="ShivaDamain" height="30" width="40" /></a>
 
 - 💬 Ask me about **linux/os/networking/AI/ML/BASH**
 
