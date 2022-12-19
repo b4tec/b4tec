@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **linux/os/networking/AI/ML/BASH**
 
-- 📫 Index me at 👇 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rubik&weight=650&size=30&pause=1000&color=1AE3F7&vCenter=true&width=435&lines=shivagoswami163@gmail.com)
+- 📫 Index me at ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rubik&weight=650&size=30&pause=1000&color=1AE3F7&vCenter=true&width=435&lines=shivagoswami163@gmail.com)
 
 - 📄 Know about my experiences...<a href="https://bugswriter.nowfloats.com" target="blank"><img align="center" src="favicon.png" alt="ShivaDamain" height="40" width="40" /></a>
 
@@ -26,7 +26,7 @@
 <a href="https://twitter.com/ShivaDamain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ShivaDamain" height="30" width="40" /></a>
 <a href="https://fb.com/bugswriter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bugswriter" height="30" width="40" /></a>
 <a href="https://instagram.com/bugswriter_____" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bugswriter_____" height="30" width="40" /></a>
-<a href="https://rb.gy/ocrpeq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bugwriter" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/bugwriter" target="blank"><img align="center" src="https://blog.academyoflearning.com/wp-content/uploads/2017/09/linkedin-gif.gif" alt="bugwriter" height="30" width="35" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -48,6 +48,4 @@
 ](https://elgoog.im/t-rex/3d/)
 
 ![Logo](logo_1600x700.jpg)
-<div align="center">
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="bugswriter" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/bugwriter?trk=profile-badge">☜(^_^メ)☞</a></div>
-<link rel="shortcut icon" href="{https://imageup.me/images/72f878c0-786b-4c90-b7ce-c807ff261f3b.png}" />
+
