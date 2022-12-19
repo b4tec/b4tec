@@ -19,7 +19,7 @@
 - 📄 Know about my experiences...<a href="https://bugswriter.nowfloats.com" target="blank"><img align="center" src="favicon.png" alt="ShivaDamain" height="40" width="40" /></a>
 
 
-- ⚡ Fact **Religion is a Political drug :)**
+- ⚡ Fact **Religion is Politics Dug: )**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
