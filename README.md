@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **CSE**
 
-- 👨‍💻 All of my projects are available ..<a href="https://www.youtube.com/@bugwriter" target="blank"><img align="center" src="https://clipground.com/images/imagens-do-youtube-png-6.png" alt="ShivaDamain" height="30" width="40" /></a>
+- 👨‍💻 All of my projects are available ..<a href="https://m.youtube.com/@bugwriter" target="blank"><img align="center" src="https://clipground.com/images/imagens-do-youtube-png-6.png" alt="ShivaDamain" height="30" width="40" /></a>
 
 - 💬 Ask me about **linux/os/networking/AI/ML/BASH**
 
