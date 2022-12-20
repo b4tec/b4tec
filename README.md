@@ -36,16 +36,14 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/bugswriter"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="bugswriter" /></a> </p>
-
+<div align="left" width="50">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SHIVADAMAIN&show_icons=true&locale=en&layout=compact" alt="SHIVADAMAIN" /></p>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=SHIVADAMAIN&show_icons=true&locale=en" alt="SHIVADAMAIN" /></p>
 
-<div align="left" width="50"> 
-
-&nbsp; [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Monoton&size=49&pause=1000&color=FF0000&background=000000&multiline=true&width=1034&height=110&lines=Wellcome+%3Cfriends%3E+%2Fn+%3Ccoderz%2F%3E+)
+&nbsp;[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Monoton&size=49&pause=1000&color=FF0000&background=000000&multiline=true&width=1034&height=110&lines=Wellcome+%3Cfriends%3E+%2Fn+%3Ccoderz%2F%3E+)
 ](https://elgoog.im/t-rex/3d/)
+</div>
 
 ![Logo](logo_1600x700.jpg)
-</div>
 
