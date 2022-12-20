@@ -14,8 +14,8 @@
 
 - 💬 Ask me about **linux/os/networking/AI/ML/BASH**
 
-- 📫 Index me at <div align="left" width="50"> 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rubik&weight=650&size=30&pause=1000&color=1AE3F7&vCenter=true&width=435&lines=shivagoswami163@gmail.com) </div>
+- 📫 Index me at  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rubik&weight=650&size=30&pause=1000&color=1AE3F7&vCenter=true&width=435&lines=shivagoswami163@gmail.com)
 
 - 📄 Know about my experiences...<a href="https://bugswriter.nowfloats.com" target="blank"><img align="center" src="favicon.png" alt="ShivaDamain" height="40" width="40" /></a>
 
