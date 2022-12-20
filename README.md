@@ -14,7 +14,8 @@
 
 - 💬 Ask me about **linux/os/networking/AI/ML/BASH**
 
-- 📫 Index me at ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rubik&weight=650&size=30&pause=1000&color=1AE3F7&vCenter=true&width=435&lines=shivagoswami163@gmail.com)
+- 📫 Index me at <div align="center" width="50"> 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rubik&weight=650&size=30&pause=1000&color=1AE3F7&vCenter=true&width=435&lines=shivagoswami163@gmail.com) </div>
 
 - 📄 Know about my experiences...<a href="https://bugswriter.nowfloats.com" target="blank"><img align="center" src="favicon.png" alt="ShivaDamain" height="40" width="40" /></a>
 
@@ -36,11 +37,11 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/bugswriter"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="bugswriter" /></a> <br><br> <a href="https://ko-fi.com/bo!!"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="bo!!" /></a></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SHIVADAMAIN&show_icons=true&locale=en&layout=compact" alt="SHIVADAMAIN" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SHIVADAMAIN&show_icons=true&locale=en&layout=compact" alt="SHIVADAMAIN" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SHIVADAMAIN&show_icons=true&locale=en" alt="SHIVADAMAIN" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=SHIVADAMAIN&show_icons=true&locale=en" alt="SHIVADAMAIN" /></p>
 
-<div align="center" width="50"> 
+<div align="left" width="50"> 
 </div>
 
 &nbsp;[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Monoton&size=49&pause=1000&color=FF0000&background=000000&multiline=true&width=1034&height=110&lines=Wellcome+%3Cfriends%3E+%2Fn+%3Ccoderz%2F%3E+)
