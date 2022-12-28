@@ -9,15 +9,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sniker2&label=Profile%20views&color=0e75b6&style=flat" alt="sniker2" /> </p>
 <p align="left"> <a href="https://twitter.com/ShivaDamain" target="200"><img src="https://img.shields.io/twitter/follow/ShivaDamian?logo=twitter&style=for-the-badge" alt="ShivaDamain" /></a> </p>
 
-- 🌱 I’m currently learning **CSE**
+- **🌱 I’m currently learning** CS*Enginering*
 
-- 👨‍💻 All of my projects are available <a href="https://youtube.com/@bugwriter" target="blank"><img align="center" src="https://clipground.com/images/imagens-do-youtube-png-6.png" alt="ShivaDamain" height="30" width="44" /></a>
+- **👨‍💻 All of my projects are available** <a href="https://youtube.com/@bugwriter" target="blank"><img align="center" src="https://clipground.com/images/imagens-do-youtube-png-6.png" alt="ShivaDamain" height="30" width="44" /></a>
 
 - 💬 Ask me about **linux/os/networking/AI/ML/BASH**
 
 - <img align="center" src="https://3.bp.blogspot.com/-KgHGPuQJZEQ/XFSWYzoHjZI/AAAAAAAAAM4/eXghRX4_UnUYAVl8LsYxjJZz3cYOe9rlQCLcBGAs/s1600/envelopegifactual.gif" alt="ShivaDamain" height="40" width="40"> **Click & inbox me :** <a href="mailto:shivagoswami163@gmail.com" target="blank"><img align="center" src="https://cdn.dribbble.com/users/530738/screenshots/3310862/mailbox_www.ccccccc.dk_motionstudio_martinkundby.gif" alt="ShivaDamain" height="35" width="80" /></a>
 
-- 📄 Know about my experiences <a href="https://bugswriter.nowfloats.com" target="blank"><img align="center" src="favicon.png" alt="ShivaDamain" height="40" width="38" /></a>
+- **📄 Know about my experiences** <a href="https://bugswriter.nowfloats.com" target="blank"><img align="center" src="favicon.png" alt="ShivaDamain" height="40" width="38" /></a>
 
 
 - ⚡ Fact **Religion is Politics Dug: )**
