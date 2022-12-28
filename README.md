@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **linux/os/networking/AI/ML/BASH**
 
-- <img align="center" src="https://3.bp.blogspot.com/-KgHGPuQJZEQ/XFSWYzoHjZI/AAAAAAAAAM4/eXghRX4_UnUYAVl8LsYxjJZz3cYOe9rlQCLcBGAs/s1600/envelopegifactual.gif" alt="ShivaDamain" height="40" width="40"> **Click & Inbox me :** <a href="mailto:shivagoswami163@gmail.com" target="blank"><img align="center" src="https://cdn.dribbble.com/users/530738/screenshots/3310862/mailbox_www.ccccccc.dk_motionstudio_martinkundby.gif" alt="ShivaDamain" height="35" width="70" /></a>
+- <img align="center" src="https://3.bp.blogspot.com/-KgHGPuQJZEQ/XFSWYzoHjZI/AAAAAAAAAM4/eXghRX4_UnUYAVl8LsYxjJZz3cYOe9rlQCLcBGAs/s1600/envelopegifactual.gif" alt="ShivaDamain" height="40" width="40"> **Click & inbox me :** <a href="mailto:shivagoswami163@gmail.com" target="blank"><img align="center" src="https://cdn.dribbble.com/users/530738/screenshots/3310862/mailbox_www.ccccccc.dk_motionstudio_martinkundby.gif" alt="ShivaDamain" height="35" width="70" /></a>
 
 - 📄 Know about my experiences....<a href="https://bugswriter.nowfloats.com" target="blank"><img align="center" src="favicon.png" alt="ShivaDamain" height="40" width="38" /></a>
 
