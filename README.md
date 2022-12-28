@@ -40,7 +40,7 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=SHIVADAMAIN&show_icons=true&locale=en" alt="SHIVADAMAIN" /></p>
 
-&nbsp;[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Monoton&size=49&pause=1000&color=1AE3F7&background=1111111&multiline=true&width=1034&height=110&lines=Wellcome+%3Cfriends%3E+%2Fn+%3Ccoderz%2F%3E+)
+&nbsp;[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Monoton&size=49&pause=1000&color=FF0000&background=1111111&multiline=true&width=1034&height=110&lines=Wellcome+%3Cfriends%3E+%2Fn+%3Ccoderz%2F%3E+)
 ](https://elgoog.im/t-rex/3d/)
 ![op](https://gifimage.net/wp-content/uploads/2017/10/children-animated-gif-1.gif)
 [![Logo](logo_1600x700.jpg)](https://chat.openai.com)
