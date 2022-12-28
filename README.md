@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **linux/os/networking/AI/ML/BASH**
 
-- <img align="center" src="https://cdn.dribbble.com/users/530738/screenshots/3310862/mailbox_www.ccccccc.dk_motionstudio_martinkundby.gif" alt="ShivaDamain" height="30" width="50"> **Click & inbox me :** <a href="mailto:shivagoswami163@gmail.com" target="blank"><img align="center" src="https://babich.biz/content/images/2016/03/1-XaXLKl8WRNx3Xo4Li5U2gg.gif" alt="ShivaDamain" height="90" width="110" /></a>
+- <img align="center" src="https://cdn.dribbble.com/users/530738/screenshots/3310862/mailbox_www.ccccccc.dk_motionstudio_martinkundby.gif" alt="ShivaDamain" height="30" width="50"> **Click & inbox me :** <a href="mailto:shivagoswami163@gmail.com" target="blank"><img align="center" src="https://c.tenor.com/3tqzAAWD33cAAAAC/tenor.gif" alt="ShivaDamain" height="70" width="60" /></a>
 
 - **📄 Know about my experiences** <a href="https://bugswriter.nowfloats.com" target="blank"><img align="center" src="favicon.png" alt="ShivaDamain" height="40" width="38" /></a>
 
