@@ -1,6 +1,6 @@
 ![MasterHead](https://assets.rocketstock.com/uploads/2020/10/Cyberpunk-After-Effects-Plugins-Displacer-Pro.gif)
 <head>
-  <link rel="icon" type="image/png" href="/path/to/favicon.png">
+  <link rel="icon" type="image/png" href="favicon.png">
     </head>
 <h1 align="center">Hello<img align="center" src="https://warehouse-camo.ingress.cmh1.psfhosted.org/7f18286e59428d5fdb80fadedbd201aa8663bd1f/68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f4d617274696e4865696e7a2f4d617274696e4865696e7a2f6d61737465722f776176652e676966" height="50" width="60" />World, I'm Mr.Damain</h1>
 <h2 align="center">A Passionate RealTime Pentester/Developer from India.</h2>
@@ -11,13 +11,13 @@
 
 - 🌱 I’m currently learning **CSE**
 
-- 👨‍💻 All of my projects are available ..<a href="https://youtube.com/@bugwriter" target="blank"><img align="center" src="https://clipground.com/images/imagens-do-youtube-png-6.png" alt="ShivaDamain" height="30" width="44" /></a>
+- 👨‍💻 All of my projects are available <a href="https://youtube.com/@bugwriter" target="blank"><img align="center" src="https://clipground.com/images/imagens-do-youtube-png-6.png" alt="ShivaDamain" height="30" width="44" /></a>
 
 - 💬 Ask me about **linux/os/networking/AI/ML/BASH**
 
 - <img align="center" src="https://3.bp.blogspot.com/-KgHGPuQJZEQ/XFSWYzoHjZI/AAAAAAAAAM4/eXghRX4_UnUYAVl8LsYxjJZz3cYOe9rlQCLcBGAs/s1600/envelopegifactual.gif" alt="ShivaDamain" height="40" width="40"> **Click & inbox me :** <a href="mailto:shivagoswami163@gmail.com" target="blank"><img align="center" src="https://cdn.dribbble.com/users/530738/screenshots/3310862/mailbox_www.ccccccc.dk_motionstudio_martinkundby.gif" alt="ShivaDamain" height="35" width="80" /></a>
 
-- 📄 Know about my experiences....<a href="https://bugswriter.nowfloats.com" target="blank"><img align="center" src="favicon.png" alt="ShivaDamain" height="40" width="38" /></a>
+- 📄 Know about my experiences <a href="https://bugswriter.nowfloats.com" target="blank"><img align="center" src="favicon.png" alt="ShivaDamain" height="40" width="38" /></a>
 
 
 - ⚡ Fact **Religion is Politics Dug: )**
