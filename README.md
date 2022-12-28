@@ -9,7 +9,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sniker2&label=Profile%20views&color=0e75b6&style=flat" alt="sniker2" /> </p>
 <p align="left"> <a href="https://twitter.com/ShivaDamain" target="200"><img src="https://img.shields.io/twitter/follow/ShivaDamian?logo=twitter&style=for-the-badge" alt="ShivaDamain" /></a> </p>
 
-- **🌱 I’m currently learning** CS*Enginering*
+- 🌱 I’m currently learning **CS*Enginering**
 
 - **👨‍💻 All of my projects are available** <a href="https://youtube.com/@bugwriter" target="blank"><img align="center" src="https://clipground.com/images/imagens-do-youtube-png-6.png" alt="ShivaDamain" height="30" width="44" /></a>
 
@@ -20,7 +20,7 @@
 - **📄 Know about my experiences** <a href="https://bugswriter.nowfloats.com" target="blank"><img align="center" src="favicon.png" alt="ShivaDamain" height="40" width="38" /></a>
 
 
-- ⚡ Fact **Religion is Politics Dug: )**
+- **⚡ Fact** Religion is Politics Dug: )
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
