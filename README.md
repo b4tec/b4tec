@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **linux/os/networking/AI/ML/BASH**
 
-- 📫 Inbox me at [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rubik&weight=600&size=24&pause=1000&color=1AE3F7&vCenter=true&width=435&lines=shivagoswami163@gmail.com)](mailto:shivagoswami163@gmail.com)
+- **📫 Inbox me at :** <a href="mailto:shivagoswami163@gmail.com" target="blank"><img align="center" src=https://3.bp.blogspot.com/-KgHGPuQJZEQ/XFSWYzoHjZI/AAAAAAAAAM4/eXghRX4_UnUYAVl8LsYxjJZz3cYOe9rlQCLcBGAs/s1600/envelopegifactual.gif alt="ShivaDamain" height="50" width="40" /></a>
 
 - 📄 Know about my experiences....<a href="https://bugswriter.nowfloats.com" target="blank"><img align="center" src="favicon.png" alt="ShivaDamain" height="40" width="38" /></a>
 
