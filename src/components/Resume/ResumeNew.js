@@ -9,7 +9,7 @@ import "react-pdf/dist/esm/Page/AnnotationLayer.css";
 pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.min.js`;
 
 const resumeLink =
-  "https://raw.githubusercontent.com/SHIVADAMAIN/SHIVADAMAIN/main/logo_1600x700.jpg";
+  "https://raw.githubusercontent.com/SHIVADAMAIN/SHIVADAMAIN/01fe41c427a30396628ff368152467e98b1b56e2/src/Assets/Resume-Shiva-xD.pdf";
 
 function ResumeNew() {
   const [width, setWidth] = useState(1200);
