@@ -6,7 +6,7 @@
 <h2 align="center">A Passionate RealTime Pentester/Developer from India.</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sniker2&label=Profile%20views&color=0e75b6&style=flat" alt="sniker2" /> </p>
 <p align="left"> <a href="https://twitter.com/ShivaDamain" target="200"><img src="https://img.shields.io/twitter/follow/ShivaDamian?logo=twitter&style=for-the-badge" alt="ShivaDamain" /></a> </p>
-<a href="https://bugwriter.vercel.app" target="blank"><img align="right" src="comemsg.webp" alt="bugwriter" height="400" width="400" /></a>
+<a href="https://bugswriter.ml" target="blank"><img align="right" src="comemsg.webp" alt="bugwriter" height="300" width="400" /></a>
 - 🌱 I’m currently learning CS*Enginering
 
 - **👨‍💻 All of my projects are available** <a href="https://youtube.com/@bugwriter" target="blank"><img align="center" src="https://clipground.com/images/imagens-do-youtube-png-6.png" alt="ShivaDamain" height="30" width="44" /></a>
