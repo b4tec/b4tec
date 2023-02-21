@@ -4,17 +4,14 @@
     </head>
 <h1 align="center">Hello<img align="center" src="https://warehouse-camo.ingress.cmh1.psfhosted.org/7f18286e59428d5fdb80fadedbd201aa8663bd1f/68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f4d617274696e4865696e7a2f4d617274696e4865696e7a2f6d61737465722f776176652e676966" height="50" width="60" />World, I'm Mr.Damain</h1>
 <h2 align="center">A Passionate RealTime Pentester/Developer from India.</h2>
-
-<img align="right" alt="Coding" width="400" src ="https://c.tenor.com/S50RruGAoksAAAAi/anonymous-anonymous-bites-back.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sniker2&label=Profile%20views&color=0e75b6&style=flat" alt="sniker2" /> </p>
 <p align="left"> <a href="https://twitter.com/ShivaDamain" target="200"><img src="https://img.shields.io/twitter/follow/ShivaDamian?logo=twitter&style=for-the-badge" alt="ShivaDamain" /></a> </p>
-
+<a href="https://bugwriter.vercel.app" target="blank"><img align="right" src="comemsg.webp" alt="bugwriter" height="400" width="400" /></a>
 - 🌱 I’m currently learning **CS*Enginering**
 
 - **👨‍💻 All of my projects are available** <a href="https://youtube.com/@bugwriter" target="blank"><img align="center" src="https://clipground.com/images/imagens-do-youtube-png-6.png" alt="ShivaDamain" height="30" width="44" /></a>
 
 - 💬 Ask me about **linux/os/networking/AI/ML/BASH**
-![OG](comemsg.webp)
 -  **Click to inbox me :** <a href="mailto:shivagoswami163@gmail.com" target="blank"><img align="center" src="https://cdn.dribbble.com/users/530738/screenshots/3310862/mailbox_www.ccccccc.dk_motionstudio_martinkundby.gif" alt="ShivaDamain" height="35" width="100" /></a>
 
 - **📄 Know about my experiences** <a href="https://bugswriter.nowfloats.com" target="blank"><img align="center" src="favicon.png" alt="ShivaDamain" height="40" width="38" /></a>
