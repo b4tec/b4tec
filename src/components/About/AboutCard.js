@@ -10,7 +10,7 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Shiva./</span>
             from <span className="purple"> India,</span>
-            <br />I am a  pursuing B.Tech in Computer science Engineering (CSE)
+            <br />I am pursuing B.Tech in Computer science Engineering (CSE)
             from Scholars Institude of Technolagy and Management (SITM)
             under Assam Science and Technolagy University (ASTU)<br />
             Apart from coding, other activities that I love to do are !!
