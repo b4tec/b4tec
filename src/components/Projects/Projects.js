@@ -38,7 +38,7 @@ function Projects() {
               isBlog={false}
               title="SCRFIRE"
               description="We generate ASCII art animated fire in CLI using Python by using the pyfiglet library. This library provides a wide range of functions that can be used to create various types of ASCII art animations. The most popular of these is the fire animation, which can be created using the pyfiglet.fire() function. This function takes a string as an argument and returns an ASCII art animation of a fire. You can also customize the animation by specifying the size, color, and speed of the animation."
-              ghLink="https://github.com/SHIVA"
+              ghLink="https://github.com/SHIVADAMAIN"
               demoLink="https://youtu.be/ksvd5UXghiE"
             />
           </Col>
