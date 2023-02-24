@@ -80,7 +80,7 @@ function Projects() {
               isBlog={false}
               title="HACKER-TYPER"
               description="HackerTyper is an online project that allows users to create a realistic-looking hacking experience. It features a text-based interface with a variety of functions and commands, as well as a simulated terminal window. The project also includes a variety of tools and resources to help users create their own hacking experience. HackerTyper allows users to customize their experience by selecting from a range of themes, fonts, and colors. It also includes a variety of sound effects and music to further enhance the experience. HackerTyper is a great way to learn more about hacking and computer security, and it's a great way to have some fun."
-              demoLink="https://hackertyper.com"
+              demoLink="https://hackertyper.net"
             />
           </Col>
         </Row>
