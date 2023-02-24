@@ -8,7 +8,7 @@ function Type() {
         strings: [
           "Search Engine Optimizer (S.E.O)",
           "Deep Learning Engineer",
-          "pentester./DevSecOps Engineer",
+          "Pentester | DevSecOps Engineer",
           "Open Source Contributor",
         ],
         autoStart: true,
