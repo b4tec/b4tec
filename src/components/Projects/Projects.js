@@ -27,7 +27,7 @@ function Projects() {
               isBlog={false}
               title="face-mask-detection"
               description="The scenario of COVID-19 demanded an efficient face mask detection application. The main goal of the project is to implement this system at entrances of colleges, airports, hospitals and offices where chances of spread of spread of COVID-19 through contagion are relatively higher. It is an object detection and classification problem with two different classes (Mask and Without Mask). A hybrid model using deep and classical machine learning for detecting for mask will be presented. A dataset is used to build this face mask detector using Python, OpenCV, AND TensorFlow and Keras. While entering the place everyone should scan their face and then enter ensuring they have mask with them. If anyone is found to be without a face mask, beep alert will be generated. Hence to ensure that people wear masks while coming to work we hope this module will help in detecting it."
-              ghLink="https://github.com/SHIVADAMAIN"
+              ghLink="https://github.com/SHIVADAMAIN/fmd-ai"
               demoLink="https://facemask-detection.com"
             />
           </Col>
@@ -37,8 +37,8 @@ function Projects() {
               imgPath={bitsOfCode}
               isBlog={false}
               title="SCRFIRE"
-              description="We generate ASCII art animated fire in CLI using Python by using the pyfiglet library. This library provides a wide range of functions that can be used to create various types of ASCII art animations. The most popular of these is the fire animation, which can be created using the pyfiglet.fire() function. This function takes a string as an argument and returns an ASCII art animation of a fire. You can also customize the animation by specifying the size, color, and speed of the animation."
-              ghLink="https://github.com/SHIVADAMAIN"
+              description="We generate ASCII art animated fire in CLI using Python by using the curses & random library. This library provides a wide range of functions that can be used to create various types of ASCII art animations. The most popular of these is the fire animation, which can be created using the int function. This function takes a string as an argument and returns an ASCII art animation of a fire. You can also customize the animation by specifying the size, color, and speed of the animation."
+              ghLink="https://github.com/SHIVADAMAIN/SCRFIRE"
               demoLink="https://youtu.be/ksvd5UXghiE"
             />
           </Col>
