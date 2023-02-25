@@ -37,7 +37,7 @@ function Projects() {
               imgPath={bitsOfCode}
               isBlog={false}
               title="SCRFIRE"
-              description="We generate ASCII art animated fire in CLI using Python by using the curses & random library. This library provides a wide range of functions that can be used to create various types of ASCII art animations. The most popular of these is the fire animation, which can be created using the int function. This function takes a string as an argument and returns an ASCII art animation of a fire. You can also customize the animation by specifying the size, color, and speed of the animation."
+              description="This program uses the curses library and the random library in Python to create a fire ASCII art. It runs on the command line and displays a graphical representation of fire. It uses random numbers to create shapes that resemble flames, with varying sizes and colors. The user can control the size and color of the fire with the curses library. It can be used in a variety of ways to create different sorts of effects like campfires in a camping game or to add a fiery touch to a text-based game. It can also be used as a decorative piece in an artistic projec"
               ghLink="https://github.com/SHIVADAMAIN/SCRFIRE"
               demoLink="https://youtu.be/ksvd5UXghiE"
             />
