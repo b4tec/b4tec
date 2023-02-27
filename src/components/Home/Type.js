@@ -7,7 +7,7 @@ function Type() {
       options={{
         strings: [
           "Search Engine Optimizer (S.E.O)",
-          "Deep Learning Engineer | N.L.P     
+          "Deep Learning Engineer | N.L.P ",    
           "SysAdmin | DevSecOps Engineer",
           "Open Source Contributor",
         ],
