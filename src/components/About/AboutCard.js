@@ -27,7 +27,7 @@ function AboutCard() {
             </li>
           </ul>
 
-          <p style={{ color: "rgb(155 126 172)" }}> "Terminal & Accesspoint is all i Need " 
+          <p style={{ color: "rgb(155 126 172)" }}> " Terminal & Accesspoint is all i Need " 
               Thy crime is of curiosity: )  {" "}
           </p>
           <footer className="blockquote-footer">Shiva</footer>
