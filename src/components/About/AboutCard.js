@@ -23,12 +23,13 @@ function AboutCard() {
               <ImPointRight /> Watching meme
             </li>
             <li className="about-activity">
-              <ImPointRight /> fishing --hook.
+              <ImPointRight /> Fishing  --hook.
             </li>
           </ul>
 
-          <p style={{ color: "rgb(155 126 172)" }}> " Terminal & Accesspoint is all i Need " 
-              Thy crime is of curiosity: )  {" "}
+          <p style={{ color: "rgb(155 126 172)" }}> 
+            " Terminal & Accesspoint is all I Need " 
+              ( my crime is of curiosity: )  {" "}
           </p>
           <footer className="blockquote-footer">Shiva</footer>
         </blockquote>
