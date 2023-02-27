@@ -37,7 +37,9 @@ function Home2() {
                 </b>
               </i>
               <br />
-              " Let's route N.L.P on India's Map "
+               <p style={{ color: "rgb(155 126 172)" }}> 
+               " Let's route N.L.P on India's Map "  {" "}
+             </p>
               <br />
               Whenever possible, I also apply my passion for developing products
               with <b className="purple">Node.js</b> and
