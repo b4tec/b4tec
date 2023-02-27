@@ -23,7 +23,7 @@ function AboutCard() {
               <ImPointRight /> Watching meme
             </li>
             <li className="about-activity">
-              <ImPointRight /> Fishing  --hook.
+              <ImPointRight /> Fishing  --hook .
             </li>
           </ul>
 
