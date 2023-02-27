@@ -33,10 +33,11 @@ function Home2() {
                 <b className="purple">Web Technologies and Products </b> and
                 also in areas related to{" "}
                 <b className="purple">
-                  Deep Learning and Natural Launguage Processing.
+                  Deep Learning and Natural Launguage Processing .
                 </b>
               </i>
               <br />
+              " Let's rout NLP on INDIA's Map
               <br />
               Whenever possible, I also apply my passion for developing products
               with <b className="purple">Node.js</b> and
