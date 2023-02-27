@@ -37,7 +37,7 @@ function Home2() {
                 </b>
               </i>
               <br />
-              " Let's rout NLP on INDIA's Map
+              " Let's route N.L.P on India's Map "
               <br />
               Whenever possible, I also apply my passion for developing products
               with <b className="purple">Node.js</b> and
