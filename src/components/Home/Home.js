@@ -21,7 +21,7 @@ function Home() {
               </h1>
 
               <h1 className="heading-name">
-                $ ima
+                $ thy
                 <strong className="main-name"> BugWriter : )  </strong>
               </h1>
 
