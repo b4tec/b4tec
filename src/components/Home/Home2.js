@@ -21,6 +21,9 @@ function Home2() {
             <p className="home-about-body">
               I fell in love with programming and I have at least learnt
               something, I think…*🤷‍♂️
+             <p style={{ color: "rgb(155 126 172)" }}> 
+               " i be decoding my life "  {" "}
+             </p>
               <br />
               <br />I am fluent in classics like
               <i>
