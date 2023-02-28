@@ -28,6 +28,7 @@ function Home2() {
               <i>
                 <b className="purple">  C++, Javascript, Python, BASH. </b>
               </i>
+             <br />
               <br />
               My field of Interest's are <b className="purple">Penetration.testing,</b> building new &nbsp;
               <i>
