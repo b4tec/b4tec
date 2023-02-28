@@ -24,12 +24,10 @@ function Home2() {
              <p style={{ color: "rgb(155 126 172)" }}> 
                " i be decoding my life "  {" "}
              </p>
-              <br />
               <br />I am fluent in classics like
               <i>
                 <b className="purple">  C++, Javascript, Python, BASH. </b>
               </i>
-              <br />
               <br />
               My field of Interest's are <b className="purple">Penetration.testing,</b> building new &nbsp;
               <i>
