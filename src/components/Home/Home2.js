@@ -38,7 +38,7 @@ function Home2() {
               </i>
               <br />
                <p style={{ color: "rgb(155 126 172)" }}> 
-               " Let's route N.L.P on India's Map "  {" "}
+               " let's route N.L.P on India's Map "  {" "}
              </p>
               <br />
               Whenever possible, I also apply my passion for developing products
