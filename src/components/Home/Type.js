@@ -9,7 +9,7 @@ function Type() {
           "Search Engine Optimizer (S.E.O)",
           "Deep Learning Engineer | N.L.P ",    
           "SysAdmin | DevSecOps Engineer",
-          "Open Source Contributor",
+          "Open Source Contributor {F.O.O.S}",
         ],
         autoStart: true,
         loop: true,
