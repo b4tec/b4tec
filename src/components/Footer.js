@@ -13,7 +13,7 @@ function Footer() {
     <Container fluid className="footer">
       <Row>
         <Col md="4" className="footer-copywright">
-          <h3>Designed and Developed by Mr.Damain </h3>
+          <h3> Developed and Deployed by Mr.Damain </h3>
         </Col>
         <Col md="4" className="footer-copywright">
           <h3>Copyright © {year} under bugwriter</h3>
