@@ -20,9 +20,9 @@ function Home2() {
             </h1>
             <p className="home-about-body">
               I fell in love with programming and I have at least learnt
-              something, I think…*🤷‍♂️
+              something, I think*🤷‍♂️
              <p style={{ color: "rgb(155 126 172)" }}> 
-               " i be decoding my life "  {" "}
+               " i be decoding my life... "  {" "}
              </p>
               <br />I am fluent in classics like
               <i>
