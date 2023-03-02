@@ -22,7 +22,7 @@ function Home2() {
               I fell in love with programming and I have at least learnt
               something, I think*
              <p style={{ color: "rgb(155 126 172)" }}> 
-               "I be decoding my life to escape thy matrix." {" "}
+               "I be decoding my life to escape thy matrix" {" "}
              </p>
               <br />I am fluent in classics like
               <i>
