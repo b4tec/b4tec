@@ -40,4 +40,4 @@
 &nbsp;[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Monoton&size=49&pause=1000&color=FF0000&background=000000&multiline=true&width=1034&height=110&lines=Wellcome+%3Cfriends%3E+%2Fn+%3Ccoderz%2F%3E+)
 ](https://elgoog.im/t-rex/3d/)
 ![op](https://gifimage.net/wp-content/uploads/2017/10/children-animated-gif-1.gif)
-[![Logo](logo_1600x700.jpg)](https://chat.openai.com)
+[![Logo](logo_1600x700.jpg)](https://www.bugswriter.ml)
