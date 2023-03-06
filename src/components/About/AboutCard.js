@@ -29,7 +29,7 @@ function AboutCard() {
 
           <p style={{ color: "rgb(155 126 172)" }}> 
             " Terminal & Accesspoint is all I Need " 
-              ( my crime is of curiosity: )  {" "}
+               my crime is of curiosity: )  {" "}
           </p>
           <footer className="blockquote-footer">Shiva</footer>
         </blockquote>
