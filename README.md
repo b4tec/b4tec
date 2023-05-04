@@ -12,7 +12,7 @@
 - **👨‍💻 All of my projects are available** <a href="https://youtube.com/@bugwriter" target="blank"><img align="center" src="https://clipground.com/images/imagens-do-youtube-png-6.png" alt="ShivaDamain" height="30" width="44" /></a>
 
 - 💬 Ask me about **linux/os/networking/AI/ML/BASH**
--  **Click to inbox me :** <a href="mailto:shivagoswami163@gmail.com" target="blank"><img align="center" src="https://cdn.dribbble.com/users/530738/screenshots/3310862/mailbox_www.ccccccc.dk_motionstudio_martinkundby.gif" alt="ShivaDamain" height="35" width="100" /></a>
+-  **Click to inbox me :** <a href="mailto:radioheadn00b@gmail.com?subject=Thy%20BugWriter%20%3A%20)&body=Hello%20BugWriter..." target="blank"><img align="center" src="https://cdn.dribbble.com/users/530738/screenshots/3310862/mailbox_www.ccccccc.dk_motionstudio_martinkundby.gif" alt="ShivaDamain" height="35" width="100" /></a>
 
 - **📄 Know about my experiences** <a href="https://bugswriter.nowfloats.com" target="blank"><img align="center" src="favicon.png" alt="ShivaDamain" height="40" width="38" /></a>
 
