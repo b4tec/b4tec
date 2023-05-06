@@ -24,7 +24,7 @@
 <a href="https://twitter.com/ShivaDamain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ShivaDamain" height="30" width="40" /></a>
 <a href="https://fb.com/bugswriter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bugswriter" height="30" width="40" /></a>
 <a href="https://instagram.com/bugswriter_____" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bugswriter_____" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/bugwriter" target="blank"><img align="center" src="https://blog.academyoflearning.com/wp-content/uploads/2017/09/linkedin-gif.gif" alt="bugwriter" height="30" width="35" /></a>
+<a href="https://www.linkedin.com/in/scure" target="blank"><img align="center" src="https://blog.academyoflearning.com/wp-content/uploads/2017/09/linkedin-gif.gif" alt="bugwriter" height="30" width="35" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
