@@ -32,10 +32,8 @@
 
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/bugswriter"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="bugswriter" /></a> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SHIVADAMAIN&show_icons=true&locale=en&layout=compact&theme=dark" alt="SHIVADAMAIN" /></p>
+<p><a href="https://www.buymeacoffee.com/bugwriter"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="BugWriter" /></a> </p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=SHIVADAMAIN&show_icons=true&locale=en&hide_border=false&theme=synthwave" alt="SHIVADAMAIN" /></p>
 
 &nbsp;[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Monoton&size=49&pause=1000&color=FF0000&background=000000&multiline=true&width=1034&height=110&lines=Wellcome+%3Cfriends%3E+%2Fn+%3Ccoderz%2F%3E+)
 ](https://ai.bugswriter.ml)
