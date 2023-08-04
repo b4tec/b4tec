@@ -2,10 +2,10 @@
 <head>
   <link rel="icon" type="image/png" href="favicon.png">
     </head>
-<h1 align="center">Hello<img align="center" src="https://warehouse-camo.ingress.cmh1.psfhosted.org/7f18286e59428d5fdb80fadedbd201aa8663bd1f/68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f4d617274696e4865696e7a2f4d617274696e4865696e7a2f6d61737465722f776176652e676966" height="50" width="60" />World, I'm Mr.Damain</h1>
+<h1 align="center">Hello<img align="center" src="https://em-content.zobj.net/source/microsoft-teams/363/saluting-face_1fae1.png" height="50" width="60" />World, I'm Mr.Damain</h1>
 <h2 align="center">A Passionate RealTime Pentester/Developer from India.</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sniker2&label=Profile%20views&color=0e75b6&style=flat" alt="sniker2" /> </p>
-<p align="left"> <a href="https://twitter.com/ShivaDamain" target="200"><img src="https://img.shields.io/twitter/follow/ShivaDamian?logo=twitter&style=for-the-badge" alt="ShivaDamain" /></a> </p>
+<p align="left"> <a href="https://twitter.com/b4tec" target="200"><img src="https://img.shields.io/twitter/follow/b4tec?logo=twitter&style=for-the-badge" alt="b4tec" /></a> </p>
 <a href="https://bugswriter.ml" target="blank"><img align="right" src="comemsg.webp" alt="bugwriter" height="300" width="400" /></a>
 - 🌱 I’m currently learning CS*Enginering
 
